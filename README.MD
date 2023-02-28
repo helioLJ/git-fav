@@ -17,7 +17,7 @@ Favorite seus usuários prediletos do GitHub em uma só lista!
 - Se a lista ficar grande, aparecerá um scroll para a tabela.
 
 
-## Stack utilizada
+## Stack utilizada ⚛️
 
 **Front-end:** HTML, CSS, JavaScript
 
